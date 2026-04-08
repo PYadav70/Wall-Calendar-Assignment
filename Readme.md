@@ -140,22 +140,16 @@ public/
 
 ## 🌐 Live Demo (Optional)
 
-👉 Add your deployed link here (Vercel / Netlify)
+👉 https://wall-calendar-plum.vercel.app/
 
 ---
 
-## 🎥 Demo Video
-
-👉 Add your Loom/YouTube link here
 
 ---
 
 ## 🙌 Author
 
-**Your Name**
+**Pappu Kumar Yadav**
 
 ---
 
-## ⭐ Acknowledgements
-
-Inspired by physical wall calendar designs and modern SaaS UI patterns.
